@@ -33,6 +33,6 @@ A global density map was created to visually highlight regions experiencing the 
 ![Density map](https://github.com/hannahidayat/usgs-earthquake-activity/blob/main/images/Screenshot%202026-06-26%20110201.png)
 *Static images of a single 24-hour cycle. Launch the interactive MyBinder to see updated data.* 
 
-A scatter plot was designed to compare earthquake event intensity and tectonic boundaries through magnitude versus depth profiling. 
+A scatter plot was designed to compare earthquake event intensity and tectonic boundaries through magnitude versus depth profiling. Many of the earthquakes are clustered around a level 2 magnitude, which are typically not felt by humans but are detected. As many earthquakes are <50km, seismic activity continues to be mostly located at the surface where friction and stress are located. 
 
 ![Scatter plot](https://github.com/hannahidayat/usgs-earthquake-activity/blob/main/images/Screenshot%202026-06-26%20112354.png)
