@@ -36,3 +36,9 @@ A global density map was created to visually highlight regions experiencing the 
 A scatter plot was designed to compare earthquake event intensity and tectonic boundaries through magnitude versus depth profiling. Many of the earthquakes are clustered around a level 2 magnitude, which are typically not felt by humans but are detected. As many earthquakes are <50km, seismic activity continues to be mostly located at the surface where friction and stress are located. 
 
 ![Scatter plot](https://github.com/hannahidayat/usgs-earthquake-activity/blob/main/images/Screenshot%202026-06-26%20112354.png)
+
+### Sampling Bias
+
+![Proximity to stations](https://github.com/hannahidayat/usgs-earthquake-activity/blob/main/images/Screenshot%202026-06-26%20154559.png) 
+
+Each earthquake event was grouped by proximity to a recording station: Near Station, Moderate Distance, and Far From Station, calculated using the distance minimum `dmin`. The `min`, `mean`, and `count` were calculated and show bias towards earthquakes that occurred closer to sensor stations that were able to detect them. Earthquakes in the Near Station category were able to detect weaker earthquakes (-0.43 magnitude, logarithmic) compared to Far From Station (0.27). That is also why earthquakes in the Far From Station category have a higher average magnitude; small earthquakes decay before being detected by a station. 
