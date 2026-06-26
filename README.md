@@ -22,7 +22,7 @@ The z-coordinate (depth) was extracted from `geometry` of the GeoJSON to locate 
 A global density map was created to visually highlight regions experiencing the highest density of seismic activity. Hexagonal points are used to represent the number of earthquakes in a location. 
 
 ![Density map](https://github.com/hannahidayat/usgs-earthquake-activity/blob/main/images/Screenshot%202026-06-26%20110201.png)
-*Static image of a single 24-hour cycle. Launch the interactive MyBinder to see updated data.* 
+*Static images of a single 24-hour cycle. Launch the interactive MyBinder to see updated data.* 
 
 A scatter plot was designed to compare earthquake event intensity and tectonic boundaries through magnitude versus depth profiling. 
 
