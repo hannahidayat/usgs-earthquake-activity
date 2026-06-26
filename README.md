@@ -6,4 +6,6 @@ Click on the badge above to run this notebook within browser via MyBinder.
 
 ## Overview
 
-The Jupyter notebook retrieves GeoJSON past 24-hour summary data from the [U.S. Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) for data analysis.   
+Real-time seismic data over a 24-hour window from the [U.S. Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) is retrieved to analyze worldwide earthquake activity.   
+
+Tools for analysis and visualization include Pandas, GeoPandas, Matplotlib, and Seaborn. 
