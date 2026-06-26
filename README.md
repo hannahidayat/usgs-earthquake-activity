@@ -19,7 +19,7 @@ Timestamp data was used to identify the hour with the most seismic activity and 
 
 
 Based on z-coordinate, earthquakes were grouped and counted based on Earth's structural layers: crustal, upper mantle, and deep mantle. 
-The z-coordinate (depth) was extracted from `geometry` of the GeoJSON to locate the deepest earthquake event in the past 24 hours. 
+The z-coordinate (depth) was extracted from `geometry` of the GeoJSON to locate the deepest earthquake event in the past 24 hours. Most earthquakes occur in the Earth's crust because as the temperature is lower this allows the lithospheric plates, which are hard and brittle, to experience stress and reach a breaking point to create seismic waves. The deepest earthquake in the 24-hour cycle is at 191.50 km, which is in the upper mantle. This type of earthquake happens in subduction zones where a tectonic plate sinks and takes millions of years for it to reach the temperature of the mantle and dissolve.  
 
 ![Classification](https://github.com/hannahidayat/usgs-earthquake-activity/blob/main/images/Screenshot%202026-06-26%20132032.png)
 
