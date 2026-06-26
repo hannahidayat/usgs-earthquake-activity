@@ -9,3 +9,9 @@ Click on the badge above to run this notebook within browser via MyBinder.
 Real-time seismic data over a 24-hour window from the [U.S. Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) is retrieved to analyze worldwide earthquake activity.   
 
 Tools for analysis and visualization include Pandas, GeoPandas, Matplotlib, and Seaborn. 
+
+## Key Findings
+
+Timestamp data was used to identify the hour with the most seismic activity and to aggregate hourly earthquake counts. 
+
+The z-coordinate (depth) was extracted from `geometry` objects of the GeoJSON dataset to locate the deepest earthquake event in the past 24 hours. 
