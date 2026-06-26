@@ -13,7 +13,7 @@ Tools for analysis and visualization include Pandas, GeoPandas, Matplotlib, and 
 ## Key Findings
 
 ### Analysis & Seismic Classification 
-Timestamp data was used to identify the hour with the most seismic activity and to aggregate hourly earthquake counts. 
+Timestamp data was used to identify the hour with the most seismic activity and to aggregate hourly earthquake counts. For June 25, 2026 the most seismic activity occurred at 23:00 (11 PM) with a count of 17 earthquakes.
 
 ![Hourly count](https://github.com/hannahidayat/usgs-earthquake-activity/blob/main/images/Screenshot%202026-06-26%20131353.png)
 
