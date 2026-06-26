@@ -17,6 +17,9 @@ Timestamp data was used to identify the hour with the most seismic activity and 
 
 The z-coordinate (depth) was extracted from `geometry` of the GeoJSON to locate the deepest earthquake event in the past 24 hours. 
 
+![Hourly count](https://github.com/hannahidayat/usgs-earthquake-activity/blob/main/images/Screenshot%202026-06-26%20131353.png)
+
+
 ### Data Visualization
 
 A global density map was created to visually highlight regions experiencing the highest density of seismic activity. Hexagonal points are used to represent the number of earthquakes in a location. 
