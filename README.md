@@ -15,9 +15,10 @@ Tools for analysis and visualization include Pandas, GeoPandas, Matplotlib, and 
 ### Analysis 
 Timestamp data was used to identify the hour with the most seismic activity and to aggregate hourly earthquake counts. 
 
-The z-coordinate (depth) was extracted from `geometry` of the GeoJSON to locate the deepest earthquake event in the past 24 hours. 
-
 ![Hourly count](https://github.com/hannahidayat/usgs-earthquake-activity/blob/main/images/Screenshot%202026-06-26%20131353.png)
+
+
+The z-coordinate (depth) was extracted from `geometry` of the GeoJSON to locate the deepest earthquake event in the past 24 hours. 
 
 
 ### Data Visualization
