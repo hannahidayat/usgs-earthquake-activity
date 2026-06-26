@@ -28,7 +28,7 @@ Most earthquakes occur in the Earth's crust because as the temperature is lower 
 
 ### Data Visualization
 
-A global density map was created to visually highlight regions experiencing the highest density of seismic activity. Hexagonal points are used to represent the number of earthquakes in a location. 
+A global density map was created to visually highlight regions experiencing the highest density of seismic activity. Hexagonal points are used to represent the number of earthquakes in a location. Based on the cyan hexagonal points, many earthquakes in the past 24 hours are occurring in the western region of the United States. This geological location sits on the edge of active tectonic plates, which includes the San Andreas Fault where the network of cracks results in numerous earthquakes.  
 
 ![Density map](https://github.com/hannahidayat/usgs-earthquake-activity/blob/main/images/Screenshot%202026-06-26%20110201.png)
 *Static images of a single 24-hour cycle. Launch the interactive MyBinder to see updated data.* 
